@@ -1,2 +1,3 @@
 # Moeez-Cplus-plus
-Professional Practice 
+Programming fundamentals 
+Sir Daniyal Niazi Mentor
